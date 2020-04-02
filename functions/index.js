@@ -42,7 +42,7 @@ app.intent(['Default Welcome Intent - yes', 'start intent'], (conv) => {
   conv.ask('Okay! Let\'s start!');
   conv.ask(new MediaObject({
     name: 'Before Sleep',
-    url: 'https://firebasestorage.googleapis.com/v0/b/before-sleep.appspot.com/o/Full.mp3?alt=media&token=6f9873be-eaab-48f7-be97-28ac0c4438fa',
+    url: 'https://firebasestorage.googleapis.com/v0/b/before-sleep.appspot.com/o/Full.mp3?alt=media&token=243b7457-f83b-4846-afdd-e3b45fcb44b5',
     description: 'All duas',
     icon: new Image({
       url: 'https://firebasestorage.googleapis.com/v0/b/before-sleep.appspot.com/o/Icon.jpg?alt=media&token=d716f070-5a57-4cca-9e6b-435730eef8b2',
